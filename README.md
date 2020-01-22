@@ -17,6 +17,12 @@ Sample results are available
 
 > __Below we assume the working directory is the repository root.__
 
+### Install CUDA drivers
+
+To utilize `tensorflow-gpu`, you must first follow
+[NVIDIA's instructions](https://developer.nvidia.com/cuda-downloads) to install
+the correct CUDA drivers on your machine.
+
 ### Install dependencies
 
 - Using pipenv (recommended)
